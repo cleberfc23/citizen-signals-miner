@@ -1,7 +1,6 @@
 # Citizen Signals Miner  
-![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge)  
-Turning large collections of citizen feedback into meaningful signals through machine learning.
-
+![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge) 
+An exploration of citizen feedback patterns using public data from Poland's national open data portal.
 
 ## The Problem
 
