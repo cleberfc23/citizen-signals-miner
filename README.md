@@ -1,4 +1,4 @@
-# Public Signals Miner  
+# Sygnały Miner 
 ![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge)
 
 An exploration of how machine learning can discover meaningful signals in large collections of public text.
