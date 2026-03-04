@@ -1,6 +1,6 @@
 # Citizen Signals Miner  
-![Status](https://img.shields.io/badge/status-active%20development-2ea44f)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge)
+
 
 
 Turning large collections of citizen feedback into meaningful signals through machine learning.
