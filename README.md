@@ -1,5 +1,5 @@
 # Citizen Signals Miner  
-![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge) 
+![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge)   
 An exploration of citizen feedback patterns using public data from Poland's national open data portal.
 
 ## The Problem
