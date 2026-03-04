@@ -1,9 +1,7 @@
 # Citizen Signals Miner  
-![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge)
-
-
-
+![Status](https://img.shields.io/badge/status-active%20development-yellow?style=for-the-badge)  
 Turning large collections of citizen feedback into meaningful signals through machine learning.
+
 
 ## The Problem
 
